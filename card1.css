@@ -1,0 +1,34 @@
+.box{
+    background-color:peachpuff;
+    height: 650px;
+    width: 450px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 10px 10px 100px peachpuff;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px ;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px ;
+
+}
+img{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    color: burlywood;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: white;
+}
+h2{
+    background-color: white;
+}
